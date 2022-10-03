@@ -13,7 +13,8 @@
 /src/*
 /src/*
 /designs/*
-/compressed/*
+# /compressed/*
+/js/*
 /exp/*
 
 
@@ -31,5 +32,5 @@ yarn-error.log*
 *.scss
 *.css.map
 fetch.js
-.sql
-agua.sql
+# .sql
+# agua.sql

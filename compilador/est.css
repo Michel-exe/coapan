@@ -1,0 +1,10 @@
+*:not(li,ul,ol){padding:0;margin:0;box-sizing:border-box;font-family:sans-serif}body{padding-bottom:200px}a,a:active{color:blue;text-decoration:none}a:visited{color:#8a2be2}.link{display:block;padding:25px 0;text-align:center}.link a:visited{color:blue}.zona{margin:40px auto 0;width:90%;height:80vh;background:rgba(238,238,238,0);display:flex;align-items:center;justify-content:center;flex-direction:column;border:5px dashed;border-color:#ccc}.zona h2{font-size:20px;letter-spacing:2px}.zona label{margin-top:5px;padding:5px 15px;border:1px solid blue;cursor:pointer}.cargado{margin:50px auto 0;width:90%;height:150px}.cargado img,.cargado video{display:block;width:100%;height:auto}.archivos{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:95%;padding-top:15px;margin:0 auto;display:flex;justify-content:space-evenly;flex-wrap:wrap;gap:25px}.archivos .carga{height:30vh;display:flex;justify-content:center;align-items:flex-end}.archivos .carga span{display:block;width:80px;height:80px;border-radius:50%;background:#717dff;-webkit-animation:pulso .85s infinite linear;animation:pulso .85s infinite linear}.archivos div{width:250px;height:250px;box-shadow:5px 5px 20px #ddd;border-radius:15px}.archivos div section{display:grid;place-items:center;width:95%;margin:0 auto;height:210px}.archivos div section svg{font-size:130px;opacity:.5}.archivos div nav{display:block;padding-top:10px;border-top:2px solid #aaa;width:95%;height:40px;margin:0 auto;position:relative}.archivos div nav h2{display:block;width:calc(100% - 40px);font-size:15px;font-weight:300;overflow:hidden}.archivos div nav a{display:flex;align-items:center;justify-content:center;width:40px;height:38px;background:#fff;position:absolute;right:0;bottom:0}.archivos div nav a svg{font-size:25px}@-webkit-keyframes pulso{0%{transform:scale(0.15);opacity:0}50%{opacity:1}100%{transform:scale(1);opacity:0}}@keyframes pulso{0%{transform:scale(0.15);opacity:0}50%{opacity:1}100%{transform:scale(1);opacity:0}}/*# sourceMappingURL=estilos.css.map */
+
+
+ul,ol,li{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
